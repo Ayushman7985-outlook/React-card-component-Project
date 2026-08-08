@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+
+body {
+  color: #2c3e50;
+  background-color: #97b6ac;
+  font-weight: 600;
+}
+
+.add-user-box {
+  color: rgb(3, 3, 3);
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+  max-width: 400px;
+}
+
+.user-list-box {
+  color: black;
+  border-radius: 10px;
+  background-color: rgb(158, 158, 143);
+}
+
+.img {
+  padding: 5px;
+  border: 1px solid black;
+  width: 85px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+.list-group-item {
+  background-color: rgba(128, 91, 44, 0.889);
+}
+
+.list-group-item:hover {
+  cursor: pointer;
+  background-color: rgb(63, 49, 44);
+}
